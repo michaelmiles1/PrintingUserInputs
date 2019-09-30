@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingUserInputs", "PrintingUserInputs\PrintingUserInputs.csproj", "{C821A571-6703-4D3D-85BA-1FE2D7EE9E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C821A571-6703-4D3D-85BA-1FE2D7EE9E87}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C821A571-6703-4D3D-85BA-1FE2D7EE9E87}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C821A571-6703-4D3D-85BA-1FE2D7EE9E87}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C821A571-6703-4D3D-85BA-1FE2D7EE9E87}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
